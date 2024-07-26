@@ -1,4 +1,4 @@
-name: lab8_NLP_news
+name: NLP_news
 channels:
   - defaults
 dependencies:
